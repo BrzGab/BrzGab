@@ -35,8 +35,6 @@ I'm a Software Engineering student at the University of Brasília (UnB), passion
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrzGab&show_icons=true&theme=default" alt="GitHub stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrzGab&layout=compact&theme=default" alt="Top languages"/>
 </div>
 
 ---
